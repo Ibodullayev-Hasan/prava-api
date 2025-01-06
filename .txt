@@ -1,0 +1,3 @@
+- Haydovchilik guvohnomasi site - categories bo'lsin, (A, B, C, D, E, F....) (categorylarni get qilish public bo'lsin) - userlar ro'yhatdan o'tsin. ro'yhatdan o'tayotganda qaysi categorylarga topshirayotganini bersin. - savollarni admin crud qilsin. - ro'yhatdan o'tgandan keyin get orqali testlarni olsin - testlarni olgandan keyin javoblarni post qilsin - agar to'g'ri javoblar 80%dan baland bo'lsa prava bersin
+
+
